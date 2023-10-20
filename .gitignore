@@ -1,4 +1,6 @@
 c-echo-count
+c-echo
+lib/
 test
 
 CMakeCache.txt
