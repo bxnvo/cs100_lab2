@@ -7,7 +7,7 @@ ADD_EXECUTABLE(c-echo
 )
 
 ADD_EXECUTABLE(c-echo-count
-    main.cpp
+    main2.cpp
 )
 
 ADD_EXECUTABLE(test

@@ -2,6 +2,5 @@
 #include "c-count.h"
 
 int main(int argv, char** argc) {
-    std::cout << echo(argv, argc);
-    std::cout << "\n";
+    std::cout << "Count of output: " << count(echo(argv,argc)) << std::endl;
 }
